@@ -1026,7 +1026,7 @@ input, textarea, p {
 ::selection {
   background: rgba(29, 130, 255, 0.4); 
   color: #000000; 
-
+}
 ::-moz-selection {
   background: rgba(29, 130, 255, 0.4);
   color: #000000;
