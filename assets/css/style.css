@@ -1019,9 +1019,6 @@ body {
 input, textarea, p {
   font-weight: 300; }
 
-::-moz-selection {
-  background: #000;
-  color: #fff; }
 
 ::selection {
   background: rgba(29, 130, 255, 0.4); 
