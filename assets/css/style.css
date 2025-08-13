@@ -1738,7 +1738,7 @@ a {
 }
 #button-back-to-top:hover {
   cursor: pointer;
-  background-color: #333;
+  background-color: #fff;
 }
 #button-back-to-top:active {
   background-color: #555;
@@ -1746,6 +1746,9 @@ a {
 #button-back-to-top.show {
   opacity: 1;
   visibility: visible;
+}
+#button-back-to-top:hover::after {
+  color: #1D82FF; 
 }
 
 @media (min-width: 500px) {
