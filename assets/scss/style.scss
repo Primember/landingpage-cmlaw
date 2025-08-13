@@ -30,12 +30,13 @@ input, textarea, p {
 }
 // selection
 ::selection {
-  background: $black; 
-  color: $white;
+  background: rgba(29, 130, 255, 0.4); 
+  color: #000000; /
 }
+
 ::-moz-selection {
-  background: $black; 
-  color: $white;
+  background: rgba(29, 130, 255, 0.4);
+  color: #000000;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 300!important;
