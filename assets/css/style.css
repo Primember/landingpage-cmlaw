@@ -1756,5 +1756,10 @@ a {
     margin: 30px;
   }
 }
+@media (max-width: 767.98px) {
+  .pb_section .images {
+    display: none;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
